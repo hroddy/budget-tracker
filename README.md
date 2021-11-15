@@ -8,13 +8,17 @@
 
 ## Table of Contents
 
-  *  [Installation](#installation)
+  *  [Screenshot](#screenshot)
   *  [Usage](#usage)
   *  [Credit](#credit)
   *  [License](#license)
 
 ----
 
+## Screenshot
+![screenshot](./dist/assets/readme-screenshot.jpg)
+
+----
 ## Usage
 Naviagte to https://budget-tracker-hroddy.herokuapp.com/ to use the budget tracking application. Download the PWA by clicking the install button on the right hand side of the address bar. This allows you to continue logging transactions while offline. When you reconnect, your offline transcations will sync with the online.
 
